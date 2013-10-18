@@ -1,12 +1,16 @@
 
 public class ClaseA {
+		private String a;
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		public ClaseA(String a) {
+			this.a = a;
+		}
 
-	}
+		public String getA() {
+			return a;
+		}
 
+		public void setA(String a) {
+			this.a = a;
+		}	
 }
