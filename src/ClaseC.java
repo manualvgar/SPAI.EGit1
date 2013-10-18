@@ -1,6 +1,7 @@
 
 public class ClaseC {
 	private String c;
+	private int c1;
 
 	public ClaseC(String c) {
 		this.c = c;
