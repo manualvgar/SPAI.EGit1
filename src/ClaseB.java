@@ -1,5 +1,6 @@
 public class ClaseB {
 	private String b;
+	private int b1;
 
 	public ClaseB(String b) {
 		this.b = b;
